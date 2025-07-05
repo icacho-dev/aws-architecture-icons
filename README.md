@@ -100,6 +100,10 @@ graph TD
     IAM -.-> EC2
 ```
 
+| DEV Notes | Evidence |
+| --- | --- |
+| Mermaid diagram example made using https://www.mermaidchart.com and `mermaid` chart above, please refer to this file code for reference | <img src="Assets/Simple%20Lambda%20_%20Mermaid%20Chart-2025-07-05-005524.png" alt="Simple Lambda Mermaid Chart" style="max-width: 512px;"> |
+
 ### HTML/Markdown
 
 ```html
