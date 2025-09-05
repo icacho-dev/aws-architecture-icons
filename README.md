@@ -75,7 +75,7 @@ graph TD
             
             subgraph "Data Layer"
                 DB[<img src='https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-DynamoDB_48.svg' width='40px'><br>DynamoDB]
-                S3[<img src='https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-S3_48.svg' width='40px'><br>S3 Bucket<br>Static Assets]
+                S3[<img src='https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/refs/heads/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-S3-on-Outposts_48.svg' width='40px'><br>S3 Bucket<br>Static Assets]
                 RDS[<img src='https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-RDS_48.svg' width='40px'><br>RDS<br>PostgreSQL]
             end
         end
